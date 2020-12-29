@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "LaRepubblicaReader",
+  "description": "This extension will allow to read premium articles",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "reader.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
