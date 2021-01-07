@@ -13,8 +13,7 @@ var injectScript = `
     ".detail-article_container"
   )[2].querySelector(
     "div > .paywall"
-  ).innerText.split(
-    String.fromCharCode(160))[0];
+  ).innerText.split('{"')[0];
 `
 
 document.addEventListener('DOMContentLoaded', function() {
