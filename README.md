@@ -1,6 +1,11 @@
-# La Repubblica Premium Article Reader
+# Newspapers Premium Article Reader
 
-This light extension allows to unblock "premium" article from repubblica.it.
+This light extension allows to unblock "premium" article from Italian newspaper.
+
+At the moment it works with:
+- repubblica.it
+
+Feel free to suggest us more newspapers!
 
 ## Instruction
 
@@ -11,5 +16,3 @@ This light extension allows to unblock "premium" article from repubblica.it.
 - Select the directory containing your unpacked extension.
 - Open a page with a premium article
 - Lauch the extensions and voila!
-
-Hope you can find it useful ;)

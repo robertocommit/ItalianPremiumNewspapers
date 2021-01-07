@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "LaRepubblicaReader",
+  "name": "NewspapersReader",
   "description": "This extension will allow to read premium articles",
   "version": "1.0",
 
